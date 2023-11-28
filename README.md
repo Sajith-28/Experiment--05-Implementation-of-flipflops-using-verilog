@@ -109,26 +109,55 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: SAJITH AHAMED F
+RegisterNumber:  23000083
 */
 
 
+### SR FLIPFLOP
+![sr ff](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/af64f97d-f481-45ef-89b6-5fd01fff558d)
 
+### D Flip-Flop
+![d ff](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/4c491d9b-3bcb-40b4-a3c1-4e08b2193439)
 
+### JK FLIPFLOP
+![jk ff](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/c291a4c4-caad-4ee2-ad35-68f55736224f)
+
+ ### T Flip-Flop
+ ![T ff](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/abbac38c-ee73-488b-8e2b-4fc2e5a1e964)
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
+### SR FLIPFLOP
+![SR-FLIFLOP-DIAGRAM](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/40abc906-b09d-4272-8e46-dc8193439c88)
+
+### D Flip-Flop
+![D-FLIPFLOP-DIAGRAM](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/1d062e79-91ac-4e76-974b-074331e9aad8)
 
 
+### JK FLIPFLOP
+![JK-FLIPFLOP-DIAGRAM](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/94e623dd-0302-426d-8475-a03bf569efc3)
 
+ ### T Flip-Flop
+ ![T-FLIPFLOP-DIAGRAM](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/b50abf1b-3319-4055-8867-2953c61f57fe)
 
 
 
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+### SR FLIPFLOP
+![SR-FLIFLOP-WAVEFORM](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/ef04edca-6d98-4446-8d8e-a4c481aa948b)
+
+### D Flip-Flop
+![D-FLIFLOP-WAVEFORM](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/434a6df6-191e-4b7e-a4b8-79a225e89e49)
+
+### JK FLIPFLOP
+![JK-FLIPFLOP-WAVEFORM](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/24de7376-f39b-44bc-be9f-d9df9d77eb7c)
+
+ ### T Flip-Flop
+ ![T-FLIPFLOP-WAVEFORM](https://github.com/Sajith-28/Experiment--05-Implementation-of-flipflops-using-verilog/assets/149937471/14fe493c-87ac-4cc9-96cd-1ffae127ddbe)
 
 
 
