@@ -167,3 +167,4 @@ RegisterNumber:  23000083
 
 
 ### RESULTS 
+Thus SR, D , JK and T flip flop has been executed successfully using verilog programming
